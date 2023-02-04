@@ -1,0 +1,19 @@
+.header {
+  color: blue;
+}
+
+.main {
+  background: red;
+}
+
+.main:nth-child(1) {
+  color: orange;
+}
+
+span {
+  background: purple;
+}
+
+input[placeholder] {
+  color: blue;
+}
